@@ -18,4 +18,4 @@ Goal: identify segments of customers by geography using unsupervised learning
 7. Upload Cluster mapping table to Snowflake for ingestion into Search ranking program
 
 ## Results:
-![This is an image of the final geo segments]()
+![This is an image of the final geo segments](geo_segments.png)
