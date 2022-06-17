@@ -1,5 +1,5 @@
 # geo-segmentation
-Goal: identify segments of customers by geography using unsupervised learning
+Goal: identify segments of customers by geography using unsupervised learning in order to personalize search ranking
 
 ## Methodology:
 * Feature collection from clickstream activity; aggregate to CBSA geo level
